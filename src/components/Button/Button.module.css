@@ -1,0 +1,29 @@
+.primary_btn{
+  padding: 18px 10px;
+  width: 220px;
+  background-color: black;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap:8px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.middle_btn {
+  padding: 18px 10px;
+  min-width: 220px;
+  width: 100%;
+  border:1px solid black;
+  color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 16px;
+  border-radius: 5px;
+  background-color: #fff;
+  cursor: pointer;
+}
